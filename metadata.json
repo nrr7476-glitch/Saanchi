@@ -1,0 +1,7 @@
+{
+  "name": "Dairy Status Tracker",
+  "description": "An application for milk dairy owners to communicate shop status (Open/Closed) and daily products to their customers in Hindi and English.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
